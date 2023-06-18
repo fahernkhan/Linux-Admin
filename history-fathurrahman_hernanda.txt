@@ -1,0 +1,55 @@
+479  cd Downloads
+  480  mkdir dicoding
+  481  ls
+  482  cd dicoding
+  483  ..
+  484  cd .
+  485  ls
+  486  clear
+  487  free
+  488  cd ..
+  489  pwd
+  490  cd dicoding
+  491  pwd
+  492  man free
+  493  free --mega
+  494  free --giga
+  495  df
+  496  man df
+  497  df -h
+  498  clear
+  499  df -h
+  500  man df
+  501  df --output='source'.'pcent'
+  502  df --output='source','pcent'
+  503  man grep
+  504  man df
+  505  sudo snap install notepad-plus-plus
+  506  sudo snap connect notepad-plus-plus:process-control
+  507  sudo apt update
+  508  sudo apt upgrade
+  509  sudo snap install snapd
+  510  sudo snap install core
+  511  sudo snap install notepad-plus-plus
+  512  snap run notepad-plus-plus
+  513  snap disconnect notepad-plus-plus:wine-platform-plug
+  514  snap install wine-platform
+  515  sudo apt update
+  516  sudo apt install snapd
+  517  sudo apt install wine64
+  518  wine --version
+  519  df
+  520  df -h --output='source' -x tmpfs
+  521  df -h --output='source','pcent' -x tmpfs
+  522  clear
+  523  cd downloads
+  524  cd Downloads
+  525  cd dicoding
+  526  ./script-fathurrahman-hernanda.sh
+  527  ./script-fathurrahman_hernanda.sh
+  528  chmod -x script-fathurrahman_hernanda
+  529  chmod -x script-fathurrahman_hernanda.sh
+  530  ./script-fathurrahman_hernanda.sh
+  531  chmod +x script-fathurrahman_hernanda.sh
+  532  ./script-fathurrahman_hernanda.sh
+  533  history
